@@ -74,8 +74,8 @@ This project analyzes retail sales data from a US-based superstore to uncover tr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/superstore-analysis.git
-cd superstore-analysis
+git clone https://github.com/kaviya232003/superstore-sales-analysis.git
+cd superstore-sales-analysis
 ```
 
 ### 2. Install dependencies
@@ -103,11 +103,11 @@ jupyter notebook finalproject.ipynb
 ## 📁 Project Structure
 
 ```
-superstore-analysis/
+superstore-sales-analysis/
 │
-├── finalproject.ipynb          # Main analysis notebook
-├── Sample - Superstore_uncleaned data.xlsx  # Raw dataset
-└── README.md                   # Project documentation
+├── finalproject.ipynb
+├── Sample - Superstore_uncleaned data.xlsx
+└── README.md
 ```
 
 ---
@@ -124,8 +124,10 @@ superstore-analysis/
 
 ## 🙋 Author
 
-Aathilakshmi kaviya
-[GitHub](https://github.com/kaviya232003) · [LinkedIn]( https://www.linkedin.com/in/aathilakshmi-kaviya)
+**Aathilakshmi Kaviya**
+
+[![GitHub](https://img.shields.io/badge/GitHub-kaviya232003-black?logo=github)](https://github.com/kaviya232003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aathilakshmi--kaviya-blue?logo=linkedin)](https://www.linkedin.com/in/aathilakshmi-kaviya)
 
 ---
 
