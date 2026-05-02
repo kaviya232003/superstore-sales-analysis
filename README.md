@@ -125,7 +125,7 @@ superstore-analysis/
 ## 🙋 Author
 
 Aathilakshmi kaviye 
-[GitHub](https://github.com/your-kaviya232003) · [LinkedIn](https://linkedin.com/in/aathilakshmi-kaviya)
+[GitHub](https://github.com/kaviya232003) · [LinkedIn]( https://www.linkedin.com/in/aathilakshmi-kaviya)
 
 ---
 
